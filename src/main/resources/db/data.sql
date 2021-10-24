@@ -1,0 +1,2 @@
+INSERT INTO ROLES (ID,NAME,DESCRIPTION ) VALUES (3, 'ROLE_ADMIN','Manage all school operations');
+INSERT INTO ROLES (ID,NAME,DESCRIPTION ) VALUES (4, 'ROLE_USER','Get all Read Operations');

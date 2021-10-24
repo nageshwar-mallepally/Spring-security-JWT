@@ -1,0 +1,11 @@
+/.idea/**
+/src/main/webapp/app/assets/bower_components/**
+/src/main/webapp/bower_components/**
+/src/main/webapp/assets/vendor/**
+/.settings/**
+/target/
+/*.iml
+.mvn/timing.properties
+
+# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+!/.mvn/wrapper/maven-wrapper.jar
