@@ -1,4 +1,4 @@
-# training-project
+# PROPERTY-TRAINING-PROJECT
 
 ## Technologies
 #### Java, Hibernate, Spring Security using JWT, Angualar 8 and Material design.
