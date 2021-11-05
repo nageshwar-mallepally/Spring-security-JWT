@@ -1,7 +1,8 @@
 # training-project
 
-## Done using angualar 8, Spring Security using JWT token and Material design.
+## Technologies
+#### Java, Hibernate, Spring Security using JWT, Angualar 8 and Material design.
 
-### this is for Property transactions.
+### This is for Property transactions.
 
-#### views 1) Properties 2) Sale Properties 3) Bids for Sale Properties
+#### Views 1) Properties 2) Sale Properties 3) Bids for Sale Properties
